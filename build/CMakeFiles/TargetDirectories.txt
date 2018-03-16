@@ -1,0 +1,3 @@
+/Users/www1/code/c/conf/build/CMakeFiles/rebuild_cache.dir
+/Users/www1/code/c/conf/build/CMakeFiles/edit_cache.dir
+/Users/www1/code/c/conf/build/CMakeFiles/conf.dir
