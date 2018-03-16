@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-project(conf)
+project(miniftp-conf)
 
 set(CMAKE_CXX_STANDARD 11)
 
@@ -13,4 +13,4 @@ set(SOURCE_FILES
         tunable.h
         main.c)
 
-add_executable(conf ${SOURCE_FILES})
+add_executable(miniftp-conf ${SOURCE_FILES})

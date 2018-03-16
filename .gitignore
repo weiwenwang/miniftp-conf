@@ -1,0 +1,9 @@
+.idea
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+cmake-build-debug
+
+
+miniftp-conf
