@@ -17,7 +17,7 @@ const char *tunable_listen_address; // string
 ```c
 int tunable_pasv_enable = 1;
 unsigned int tunable_listen_port = 21;
-const char *tunable_listen_address = "127.0.0.1";
+const char *tunable_listen_address;
 ```
 
 在parseconf.c有三个数组，分别在对应的数组中添加配置文件中的key，和配置项key的地址
